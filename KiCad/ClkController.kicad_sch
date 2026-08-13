@@ -5,7 +5,7 @@
 	(uuid "0d35483a-0b12-46cc-b9f2-896fd6831779")
 	(paper "A4")
 	(title_block
-		(title "Oscillator Controller")
+		(title "Clk Controller")
 		(date "2026-08-11")
 		(rev "0.1.0")
 		(company "Beavers Electric Dam")
