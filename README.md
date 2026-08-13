@@ -1,4 +1,4 @@
-This is my Oscillator Controller project
+This is my Clk-Controller project
 
 Video about this project:
 https://youtu.be/S2daph1lZ14
